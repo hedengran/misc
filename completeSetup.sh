@@ -3,6 +3,7 @@
 bash bashSetup.sh
 bash vimSetup.sh
 
+brew install macvim
 brew install Caskroom/cask/iterm2
 brew cask install java
 brew cask install firefox

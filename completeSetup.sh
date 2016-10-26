@@ -4,6 +4,7 @@ bash bashSetup.sh
 bash vimSetup.sh
 
 brew install macvim
+brew install evince
 brew cask install iterm2
 brew cask install java
 brew cask install firefox

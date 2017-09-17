@@ -8,4 +8,4 @@ xargs -I{} mv {} .config-backup/{}
 config checkout
 config config --local status.showUntrackedFiles no
 
-git clone https:///github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim

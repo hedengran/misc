@@ -10,6 +10,6 @@ xargs -I{} mv {} .config-backup/{}
 config checkout
 config config --local status.showUntrackedFiles no
 
-. .bashrc
+. ~/.bashrc
 
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
